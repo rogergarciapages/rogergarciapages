@@ -1,6 +1,6 @@
 ## Hello, Bonjour, 今日は**  I'm Roger👋
 
-**`Revenue Manager, Data Analyst, SEO & Tinkerer`**
+**`Revenue Manager, Data Analyst, SEO, Digital Craftsman & Tinkerer`**
 
 
 I’m passionate about coding, from building side projects to writing Python scripts that automate repetitive tasks and make life easier. 
