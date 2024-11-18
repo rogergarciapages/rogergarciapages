@@ -37,4 +37,4 @@ Feel free to explore my repositories—there’s always something new in the wor
 
 ---
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rogergarciapages&theme=dracula&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+
