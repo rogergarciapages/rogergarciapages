@@ -15,7 +15,7 @@ Feel free to explore my repositories—there’s always something new in the wor
 
 ---
 
-### Languages I use: 👩‍🚀
+### Languages & Tools I use: 👩‍🚀
 
 <img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Astro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
