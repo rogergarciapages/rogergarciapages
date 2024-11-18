@@ -1,4 +1,4 @@
-##**Hello, Bonjour, 今日は**  I'm Roger👋
+##Hello, Bonjour, 今日は**  I'm Roger👋
 
 **Revenue Manager, Data Analyst, SEO & Tinkerer**
 <!--
