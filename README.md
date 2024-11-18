@@ -17,3 +17,4 @@ Feel free to explore my repositories—there’s always something new in the wor
 
 ### Languages I use: 👩‍🚀
 
+<img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://svgl.app/library/nextjs_icon_dark.svg"/>
