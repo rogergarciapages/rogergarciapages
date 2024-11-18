@@ -1,5 +1,6 @@
 ## **Hello, Bonjour, 今日は**  I'm Roger👋
 
+** Revenue Manager, Data Analyst, SEO & Tinkerer
 <!--
 **rogergarciapages/rogergarciapages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
