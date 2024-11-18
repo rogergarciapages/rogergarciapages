@@ -12,3 +12,4 @@ Feel free to explore my repositories—there’s always something new in the wor
 <p align="left">
  <a href="https://www.linkedin.com/in/roger-garcia-pages/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
 </p>
+---
