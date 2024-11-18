@@ -8,3 +8,7 @@ Whether it’s creating efficient solutions or exploring new technologies, I lov
 My journey started with curiosity, and now coding has become both a tool and a creative outlet. 
 
 Feel free to explore my repositories—there’s always something new in the works! 🚀
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/roger-garcia-pages/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+</p>
